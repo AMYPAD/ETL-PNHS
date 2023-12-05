@@ -1,0 +1,127 @@
+concept_id	concept_name	domain_id	vocabulary_id	concept_class_id	standard_concept	concept_code	valid_start_date	valid_end_date	invalid_reason
+2100000001	Amyloid imaging to prevent Alzheimer’s disease: Prognostic and Natural History Study (AMYPAD PNHS)	Metadata	Vocabulary	Vocabulary		OMOP generated	19700101	20991231	
+2100000002	Family Identification	Metadata	Concept Class	Concept Class		OMOP generated	19700101	20991231	
+2100000003	PET Tracer	Metadata	Concept Class	Concept Class		OMOP generated	19700101	20991231	
+2000000001	Florbetaben	Meas Value	AMYPAD PNHS	Answer	S	801001	20210101	20991231	
+2000000002	Florbetapir	Meas Value	AMYPAD PNHS	Answer	S	801002	20210101	20991231	
+2000000003	Flutemetamol	Meas Value	AMYPAD PNHS	Answer	S	801003	20210101	20991231	
+2000000004	High adherence	Meas Value	AMYPAD PNHS	Answer	S	801004	20210101	20991231	
+2000000005	Low adherence	Meas Value	AMYPAD PNHS	Answer	S	801005	20210101	20991231	
+2000000006	Moderate adherence	Meas Value	AMYPAD PNHS	Answer	S	801006	20210101	20991231	
+2000000007	Pittsburgh Compound-B (PiB)	Meas Value	AMYPAD PNHS	Answer	S	801007	20210101	20991231	
+2000000008	Amyloid beta peptide in Cerebral spinal fluid [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602001	20210101	20991231	
+2000000009	Amyloid CL GCA	Measurement	AMYPAD PNHS	Observable Entity	S	602002	20210101	20991231	
+2000000010	Amyloid DVR GCA	Measurement	AMYPAD PNHS	Observable Entity	S	602003	20210101	20991231	
+2000000011	Amyloid R1 GCA	Measurement	AMYPAD PNHS	Observable Entity	S	602004	20210101	20991231	
+2000000012	Amyloid SUVR GCA	Measurement	AMYPAD PNHS	Observable Entity	S	602005	20210101	20991231	
+2000000013	Anxiety [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602006	20210101	20991231	
+2000000014	Attention: Coding [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602007	20210101	20991231	
+2000000015	Attention: Digit span backwards [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602008	20210101	20991231	
+2000000016	Attention: Digit span forward [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602009	20210101	20991231	
+2000000017	Attention: Trail Making Test (Part A) [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602010	20210101	20991231	
+2000000018	Depression [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602011	20210101	20991231	
+2000000019	Executive: Letter Fluency [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602012	20210101	20991231	
+2000000020	Executive: Trail Making Test (B/A ratio) [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602013	20210101	20991231	
+2000000021	Executive: Trail Making Test (Part B) [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602014	20210101	20991231	
+2000000022	Instrumental Activities of Daily Living [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602015	20210101	20991231	
+2000000023	Language: Fluency [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602016	20210101	20991231	
+2000000024	Language: Naming [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602017	20210101	20991231	
+2000000025	Memory: Delayed recall [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602018	20210101	20991231	
+2000000026	Memory: Immediate recall [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602019	20210101	20991231	
+2000000027	Memory: Recognition [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602020	20210101	20991231	
+2000000028	Memory: Visual [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602021	20210101	20991231	
+2000000029	PET Scanner Manufacturer	Measurement	AMYPAD PNHS	Observable Entity	S	602022	20210101	20991231	
+2000000030	PET Scanner Model	Measurement	AMYPAD PNHS	Observable Entity	S	602023	20210101	20991231	
+2000000031	Phosphorylated tau 181 in Cerebral spinal fluid [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602024	20210101	20991231	
+2000000032	Tau protein in Cerebral spinal fluid [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602025	20210101	20991231	
+2000000033	Visuospatial Functioning [Z-score]	Measurement	AMYPAD PNHS	Observable Entity	S	602026	20210101	20991231	
+2000000034	Family ID	Observation	AMYPAD PNHS	ID	S	503001	20210101	20991231	
+2000000035	Family Member ID	Observation	AMYPAD PNHS	ID	S	503002	20210101	20991231	
+2000000036	Parent Cohort	Observation	AMYPAD PNHS	ID	S	503003	20210101	20991231	
+2000000037	Adherence to Mediterranean diet	Observation	AMYPAD PNHS	Observable Entity	S	502001	20210101	20991231	
+2000000038	Parental history of dementia	Observation	AMYPAD PNHS	Observable Entity	S	502002	20210101	20991231	
+2000000039	ABCD	Observation	AMYPAD PNHS	Qualifier Value	S	504001	20210101	20991231	
+2000000040	Alzheimer's Disease Assessment Scale-Cognitive Subscale	Observation	AMYPAD PNHS	Qualifier Value	S	504002	20210101	20991231	
+2000000041	Amsterdam IADL Questionnaire (Long Version)	Observation	AMYPAD PNHS	Qualifier Value	S	504003	20210101	20991231	
+2000000042	Amsterdam IADL Questionnaire (Short Version)	Observation	AMYPAD PNHS	Qualifier Value	S	504004	20210101	20991231	
+2000000043	Animal Fluency	Observation	AMYPAD PNHS	Qualifier Value	S	504005	20210101	20991231	
+2000000044	Boston Naming Test (15 Items)	Observation	AMYPAD PNHS	Qualifier Value	S	504006	20210101	20991231	
+2000000045	Boston Naming Test (30 Items)	Observation	AMYPAD PNHS	Qualifier Value	S	504007	20210101	20991231	
+2000000046	Boston Naming Test (60 Items)	Observation	AMYPAD PNHS	Qualifier Value	S	504008	20210101	20991231	
+2000000047	Brief Scale for Anxiety	Observation	AMYPAD PNHS	Qualifier Value	S	504009	20210101	20991231	
+2000000048	Cognitively Stimulating Activities Questionnaire	Observation	AMYPAD PNHS	Qualifier Value	S	504010	20210101	20991231	
+2000000049	Consortium to Establish a Registry for Alzheimer's Disease	Observation	AMYPAD PNHS	Qualifier Value	S	504011	20210101	20991231	
+2000000050	First Letters: DAT	Observation	AMYPAD PNHS	Qualifier Value	S	504012	20210101	20991231	
+2000000051	First Letters: FAS	Observation	AMYPAD PNHS	Qualifier Value	S	504013	20210101	20991231	
+2000000052	First Letters: NAK	Observation	AMYPAD PNHS	Qualifier Value	S	504014	20210101	20991231	
+2000000053	First Letters: P	Observation	AMYPAD PNHS	Qualifier Value	S	504015	20210101	20991231	
+2000000054	First Letters: V	Observation	AMYPAD PNHS	Qualifier Value	S	504016	20210101	20991231	
+2000000055	Free and Cued Selective Reminding Test 	Observation	AMYPAD PNHS	Qualifier Value	S	504017	20210101	20991231	
+2000000056	Fruit Fluency	Observation	AMYPAD PNHS	Qualifier Value	S	504018	20210101	20991231	
+2000000057	Functional Activities Questionnaire	Observation	AMYPAD PNHS	Qualifier Value	S	504019	20210101	20991231	
+2000000058	Geriatric Anxiety Inventory (Short Form)	Observation	AMYPAD PNHS	Qualifier Value	S	504020	20210101	20991231	
+2000000059	Geriatric Depression Scale (Long Form)	Observation	AMYPAD PNHS	Qualifier Value	S	504021	20210101	20991231	
+2000000060	Geriatric Depression Scale (Short Form)	Observation	AMYPAD PNHS	Qualifier Value	S	504022	20210101	20991231	
+2000000061	Graded Naming Test	Observation	AMYPAD PNHS	Qualifier Value	S	504023	20210101	20991231	
+2000000062	Healthy ageing through internet counselling in the elderly	Observation	AMYPAD PNHS	Qualifier Value	S	504024	20210101	20991231	
+2000000063	Hospital Anxiety and Depression Scale	Observation	AMYPAD PNHS	Qualifier Value	S	504025	20210101	20991231	
+2000000064	LEXIS	Observation	AMYPAD PNHS	Qualifier Value	S	504026	20210101	20991231	
+2000000065	Lifestyle Activities Questionnaire	Observation	AMYPAD PNHS	Qualifier Value	S	504027	20210101	20991231	
+2000000066	Lifetime of Experiences Questionnaire	Observation	AMYPAD PNHS	Qualifier Value	S	504028	20210101	20991231	
+2000000067	Mediterranean Diet Adherence Screener	Observation	AMYPAD PNHS	Qualifier Value	S	504029	20210101	20991231	
+2000000068	Minnesota Leisure Time Physical Activity Questionnaire	Observation	AMYPAD PNHS	Qualifier Value	S	504030	20210101	20991231	
+2000000069	Montgomery and Asberg Depression Rating Scale	Observation	AMYPAD PNHS	Qualifier Value	S	504031	20210101	20991231	
+2000000070	Neuropsychiatric Inventory Questionnaire	Observation	AMYPAD PNHS	Qualifier Value	S	504032	20210101	20991231	
+2000000071	Physical Activity Scale for the Elderly	Observation	AMYPAD PNHS	Qualifier Value	S	504033	20210101	20991231	
+2000000072	Pittsburgh Sleep Quality Index score	Observation	AMYPAD PNHS	Qualifier Value	S	504034	20210101	20991231	
+2000000073	Rappel libre/Rappel indicé à 16 items	Observation	AMYPAD PNHS	Qualifier Value	S	504035	20210101	20991231	
+2000000074	Repeatable Battery for the Assessment of Neuropsychological Status Update	Observation	AMYPAD PNHS	Qualifier Value	S	504036	20210101	20991231	
+2000000075	Rey Auditory Verbal Learning Test	Observation	AMYPAD PNHS	Qualifier Value	S	504037	20210101	20991231	
+2000000076	Rey Complex Figure Test	Observation	AMYPAD PNHS	Qualifier Value	S	504038	20210101	20991231	
+2000000077	Self reported	Observation	AMYPAD PNHS	Qualifier Value	S	504039	20210101	20991231	
+2000000078	State-Trait Anxiety Inventory	Observation	AMYPAD PNHS	Qualifier Value	S	504040	20210101	20991231	
+2000000079	Symbol Digit Modalities Test	Observation	AMYPAD PNHS	Qualifier Value	S	504041	20210101	20991231	
+2000000080	Wechsler Adult Intelligence Scale (3rd Edition)	Observation	AMYPAD PNHS	Qualifier Value	S	504042	20210101	20991231	
+2000000081	Wechsler Adult Intelligence Scale (4th Edition)	Observation	AMYPAD PNHS	Qualifier Value	S	504043	20210101	20991231	
+2000000082	Wechsler Adult Intelligence Scale (Revised)	Observation	AMYPAD PNHS	Qualifier Value	S	504044	20210101	20991231	
+2000000083	Wechsler Memory Scale (3rd edition)	Observation	AMYPAD PNHS	Qualifier Value	S	504045	20210101	20991231	
+2000000084	Wechsler Memory Scale (4th edition)	Observation	AMYPAD PNHS	Qualifier Value	S	504046	20210101	20991231	
+2000000085	Wechsler Memory Scale (Revised)	Observation	AMYPAD PNHS	Qualifier Value	S	504047	20210101	20991231	
+2000000086	Anxiety [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505001	20210101	20991231	
+2000000087	Attention: Coding [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505002	20210101	20991231	
+2000000088	Attention: Digit span backwards [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505003	20210101	20991231	
+2000000089	Attention: Digit span forward [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505004	20210101	20991231	
+2000000090	Attention: Trail Making Test (Part A) [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505005	20210101	20991231	
+2000000091	Cognitive activity [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505006	20210101	20991231	
+2000000092	Depression [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505007	20210101	20991231	
+2000000093	Diet [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505008	20210101	20991231	
+2000000094	Executive: Letter Fluency [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505009	20210101	20991231	
+2000000095	Executive: Trail Making Test (B/A ratio) [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505010	20210101	20991231	
+2000000096	Executive: Trail Making Test (Part B) [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505011	20210101	20991231	
+2000000097	Fazekas (deep white matter) [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505012	20210101	20991231	
+2000000098	Global Cortical Atrophy [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505013	20210101	20991231	
+2000000099	Instrumental activities of daily living [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505014	20210101	20991231	
+2000000100	Language: Fluency [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505015	20210101	20991231	
+2000000101	Language: Naming [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505016	20210101	20991231	
+2000000102	Medial Temporal Atrophy [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505017	20210101	20991231	
+2000000103	Memory: Delayed recall [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505018	20210101	20991231	
+2000000104	Memory: Immediate recall [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505019	20210101	20991231	
+2000000105	Memory: Recognition [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505020	20210101	20991231	
+2000000106	Memory: Visual [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505021	20210101	20991231	
+2000000107	Parietal Cortical Atrophy [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505022	20210101	20991231	
+2000000108	Physical activity [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505023	20210101	20991231	
+2000000109	Sleep [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505024	20210101	20991231	
+2000000110	Social acitivity [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505025	20210101	20991231	
+2000000111	Visuospatial Functioning [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505026	20210101	20991231	
+2000000112	White Matter Changes [score]	Observation	AMYPAD PNHS	Staging / Scales	S	505027	20210101	20991231	
+2000000113	Amyloid beta peptide in Cerebral spinal fluid [status]	Observation	AMYPAD PNHS	Condition Status	S	506001	20210101	20991231	
+2000000114	Amyloid PET Visual Read [status]	Observation	AMYPAD PNHS	Condition Status	S	506002	20210101	20991231	
+2000000115	Anxiety [status]	Observation	AMYPAD PNHS	Condition Status	S	506003	20210101	20991231	
+2000000116	Depression [status]	Observation	AMYPAD PNHS	Condition Status	S	506004	20210101	20991231	
+2000000117	Instrumental activities of daily living [status]	Observation	AMYPAD PNHS	Condition Status	S	506005	20210101	20991231	
+2000000118	Mini-Mental State Examination [status]	Observation	AMYPAD PNHS	Condition Status	S	506006	20210101	20991231	
+2000000119	Phosphorylated tau 181 in Cerebral spinal fluid [status]	Observation	AMYPAD PNHS	Condition Status	S	506007	20210101	20991231	
+2000000120	Tau protein in Cerebral spinal fluid [status]	Observation	AMYPAD PNHS	Condition Status	S	506008	20210101	20991231	
+2000000121	Amyloid PET	Procedure	AMYPAD PNHS	Procedure	S	307001	20210101	20991231	
+2000000122	Amyloid PET Tracer	Procedure	AMYPAD PNHS	Tracer	S	308001	20210101	20991231	
+2000000123	Centiloid unit	Unit	AMYPAD PNHS	Unit	S	1109001	20210101	20991231	

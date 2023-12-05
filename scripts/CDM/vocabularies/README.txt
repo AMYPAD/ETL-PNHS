@@ -1,0 +1,1 @@
+Only AMYPAD PNHS source vocabulary is preserved. All other vocabularies can be retrieved from ATHENA

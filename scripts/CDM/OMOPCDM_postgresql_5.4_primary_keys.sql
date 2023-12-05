@@ -1,0 +1,59 @@
+--postgresql CDM Primary Key Constraints for OMOP Common Data Model 5.4
+
+-- [BO 20230807] Removed @
+
+ALTER TABLE cdmdatabaseschema.PERSON ADD CONSTRAINT xpk_PERSON PRIMARY KEY (person_id);
+
+ALTER TABLE cdmdatabaseschema.OBSERVATION_PERIOD ADD CONSTRAINT xpk_OBSERVATION_PERIOD PRIMARY KEY (observation_period_id);
+
+ALTER TABLE cdmdatabaseschema.VISIT_OCCURRENCE ADD CONSTRAINT xpk_VISIT_OCCURRENCE PRIMARY KEY (visit_occurrence_id);
+
+ALTER TABLE cdmdatabaseschema.VISIT_DETAIL ADD CONSTRAINT xpk_VISIT_DETAIL PRIMARY KEY (visit_detail_id);
+
+ALTER TABLE cdmdatabaseschema.CONDITION_OCCURRENCE ADD CONSTRAINT xpk_CONDITION_OCCURRENCE PRIMARY KEY (condition_occurrence_id);
+
+ALTER TABLE cdmdatabaseschema.DRUG_EXPOSURE ADD CONSTRAINT xpk_DRUG_EXPOSURE PRIMARY KEY (drug_exposure_id);
+
+ALTER TABLE cdmdatabaseschema.PROCEDURE_OCCURRENCE ADD CONSTRAINT xpk_PROCEDURE_OCCURRENCE PRIMARY KEY (procedure_occurrence_id);
+
+ALTER TABLE cdmdatabaseschema.DEVICE_EXPOSURE ADD CONSTRAINT xpk_DEVICE_EXPOSURE PRIMARY KEY (device_exposure_id);
+
+ALTER TABLE cdmdatabaseschema.MEASUREMENT ADD CONSTRAINT xpk_MEASUREMENT PRIMARY KEY (measurement_id);
+
+ALTER TABLE cdmdatabaseschema.OBSERVATION ADD CONSTRAINT xpk_OBSERVATION PRIMARY KEY (observation_id);
+
+ALTER TABLE cdmdatabaseschema.NOTE ADD CONSTRAINT xpk_NOTE PRIMARY KEY (note_id);
+
+ALTER TABLE cdmdatabaseschema.NOTE_NLP ADD CONSTRAINT xpk_NOTE_NLP PRIMARY KEY (note_nlp_id);
+
+ALTER TABLE cdmdatabaseschema.SPECIMEN ADD CONSTRAINT xpk_SPECIMEN PRIMARY KEY (specimen_id);
+
+ALTER TABLE cdmdatabaseschema.LOCATION ADD CONSTRAINT xpk_LOCATION PRIMARY KEY (location_id);
+
+ALTER TABLE cdmdatabaseschema.CARE_SITE ADD CONSTRAINT xpk_CARE_SITE PRIMARY KEY (care_site_id);
+
+ALTER TABLE cdmdatabaseschema.PROVIDER ADD CONSTRAINT xpk_PROVIDER PRIMARY KEY (provider_id);
+
+ALTER TABLE cdmdatabaseschema.PAYER_PLAN_PERIOD ADD CONSTRAINT xpk_PAYER_PLAN_PERIOD PRIMARY KEY (payer_plan_period_id);
+
+ALTER TABLE cdmdatabaseschema.COST ADD CONSTRAINT xpk_COST PRIMARY KEY (cost_id);
+
+ALTER TABLE cdmdatabaseschema.DRUG_ERA ADD CONSTRAINT xpk_DRUG_ERA PRIMARY KEY (drug_era_id);
+
+ALTER TABLE cdmdatabaseschema.DOSE_ERA ADD CONSTRAINT xpk_DOSE_ERA PRIMARY KEY (dose_era_id);
+
+ALTER TABLE cdmdatabaseschema.CONDITION_ERA ADD CONSTRAINT xpk_CONDITION_ERA PRIMARY KEY (condition_era_id);
+
+ALTER TABLE cdmdatabaseschema.EPISODE ADD CONSTRAINT xpk_EPISODE PRIMARY KEY (episode_id);
+
+ALTER TABLE cdmdatabaseschema.METADATA ADD CONSTRAINT xpk_METADATA PRIMARY KEY (metadata_id);
+
+ALTER TABLE cdmdatabaseschema.CONCEPT ADD CONSTRAINT xpk_CONCEPT PRIMARY KEY (concept_id);
+
+ALTER TABLE cdmdatabaseschema.VOCABULARY ADD CONSTRAINT xpk_VOCABULARY PRIMARY KEY (vocabulary_id);
+
+ALTER TABLE cdmdatabaseschema.DOMAIN ADD CONSTRAINT xpk_DOMAIN PRIMARY KEY (domain_id);
+
+ALTER TABLE cdmdatabaseschema.CONCEPT_CLASS ADD CONSTRAINT xpk_CONCEPT_CLASS PRIMARY KEY (concept_class_id);
+
+ALTER TABLE cdmdatabaseschema.RELATIONSHIP ADD CONSTRAINT xpk_RELATIONSHIP PRIMARY KEY (relationship_id);
